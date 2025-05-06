@@ -25,4 +25,3 @@ completely ignores the Ctrl+C signal
 ![image](https://github.com/user-attachments/assets/ca1053eb-0dd7-446f-8018-c780164a86af)
 
 
-## Code Workout 1(a)
